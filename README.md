@@ -3,13 +3,13 @@
 -------
 ## CONTACT
 Cellphone: +55 12 99229-3718 </br>
+gomesduartedev@gmail.com </br>
 www.linkedin.com/in/mateusgd/ </br>
 github.com/omattaeus </br>
-gomesduartedev@gmail.com </br>
 
 -------
 ## PROFESSIONAL PROFILE
-Highly motivated and dedicated professional with experience in personal projects as a Java Developer. Proficient in Java, Spring Boot, Spring MVC, and Micro-Services. I have applied these skills in personal projects available on my GitHub, such as the HR API, CRUD API, and BOOK API. Known for problem-solving abilities, analytical thinking, and teamwork skills, with adaptability and flexibility to learn new technologies
+Highly motivated and dedicated professional, with experience in personal projects as a Java Developer. I have skills in Java, Spring Boot, Spring MVC, Microservices. I have applied this knowledge in personal projects that are on my GitHub. I am known for enjoying problem-solving, analytical thinking, and the ability to work in a team, adaptability, and flexibility to learn new technologies.
 
 --------
 ## EDUCATION
@@ -18,21 +18,21 @@ Ongoing 3rd Semester </br>
 Expected Graduation: 12/2024 </br>
 
 ---------
-## PROFESSIONAL EXPERIENCE 
-### HR API | Management
-Application focused on HR management, including job and candidate registration. 
-Utilized Java, Spring Boot, Swagger, MySQL, and MVC pattern. Focused on creating APIs to address HR situations, ensuring coherence among job vacancies, candidates, and employees.
+## PERSONAL PROJECT
+### Museum Management System
+A system developed with the purpose of applying solutions for interactive virtual museums, such as ticket generation, user control, and data analysis generation based on ratings assigned to each section. I worked with technologies such as the C language for system development.
 
-### BOOK API | Book Registration 
-Application focused on book registration in JSON, YML, and XML formats. Also employed JWT and Spring Security methods for authentication with login and password for making requests. Technologies used include Java, Spring Boot, RESTful API, Swagger, MySQL, and Spring MVC.
+### Book API | Book Registration 
+Application developed with a focus on book registration, in JSON, YAML, and XML formats. I also used the JWT method and Spring Security for authentication with login and password to make HTTP requests. I worked with technologies such as Java, Spring Boot, and MySQL.
 
 --------
 ## TECHNICAL SKILLS 
-Java, Spring Boot, API RESTful, Flyway </br>
-JWT, Spring Security </br>
-Swagger, JUnit, Mockito, GIT </br>
-MySQL </br>
-JavaScript, HTML, CSS </br>
+Java, C#, Javascript </br>
+Spring Boot, Spring Cloud </br>
+API RESTful, Flyway </br>
+Swagger, JUnit, Mockito </br>
+Git </br>
+MySQL, PostgreSQL </br>
 
 --------
 ## DESIGN PATTERNS
